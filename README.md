@@ -18,4 +18,7 @@ Within the sprint mobile application, it will have the following features:
 - Images of plants
 - Home page of the name of the application
 
-##Sample Photos
+## Sample Photos
+- Home Page
+- Plant Page
+- Season Page
