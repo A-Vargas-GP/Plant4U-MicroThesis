@@ -18,7 +18,19 @@ Within the sprint mobile application, it will have the following features:
 - Images of plants
 - Home page of the name of the application
 
+## Key Terms
+- Perennial Plant: plants that live for more than two years
+- Annual Plant: plants that flower and die in one season
+- Cool Season: Spring and fall
+- Warm Season: Summer
+
 ## Sample Photos
-- Home Page
-- Plant Page
-- Season Page
+![Home Page](photos/home-page.jpg)  
+![Plants Page](photos/plant-type-page.jpg)  
+![Perennial Plant Page](photos/Perennial-Plants-Page.jpg)  
+![Annual Plant Page](photos/Annual-Plants-Page.jpg)  
+![Strawberry Plant Page Selection](photos/Strawberries-selection-page.jpg)  
+![Season Page](photos/season-type-page.jpg)  
+![Cool Page](photos/cool-plants-list.jpg) 
+![Warm Page](photos/warm-plants-page.jpg)  
+![Corn Plant Page Selection](photos/Corn-selection-example.jpg)
