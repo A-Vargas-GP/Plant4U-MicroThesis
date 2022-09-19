@@ -4,11 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.2" />
-        <entry key="app/src/main/res/layout/activity_2.xml" value="0.20837860107421877" />
+        <entry key="app/src/main/res/layout/activity_2.xml" value="0.205810546875" />
         <entry key="app/src/main/res/layout/activity_annual_button.xml" value="0.14074074074074075" />
         <entry key="app/src/main/res/layout/activity_button.xml" value="0.15364583333333334" />
         <entry key="app/src/main/res/layout/activity_button2.xml" value="0.23596014492753623" />
+        <entry key="app/src/main/res/layout/activity_cool_button.xml" value="0.16354166666666667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.20290679931640626" />
+        <entry key="app/src/main/res/layout/activity_warm_button.xml" value="0.1" />
         <entry key="app/src/main/res/layout/dropdown_item.xml" value="0.13796296296296295" />
         <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.242333984375" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.23241424560546878" />

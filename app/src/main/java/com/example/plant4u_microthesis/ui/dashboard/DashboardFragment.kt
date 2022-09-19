@@ -10,6 +10,7 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.example.plant4u_microthesis.ActivityButton
+import com.example.plant4u_microthesis.AnnualButton
 import com.example.plant4u_microthesis.R
 import com.example.plant4u_microthesis.databinding.FragmentDashboardBinding
 
@@ -22,6 +23,12 @@ class DashboardFragment : Fragment() {
         val buttonClick: TextView = view.findViewById<Button>(R.id.button_click)
         buttonClick.setOnClickListener {
             val intent = Intent(context, ActivityButton::class.java)
+            startActivity(intent)
+        }
+
+        val buttonClicked: TextView = view.findViewById<Button>(R.id.button2_click)
+        buttonClicked.setOnClickListener {
+            val intent = Intent(context, AnnualButton::class.java)
             startActivity(intent)
         }
     }

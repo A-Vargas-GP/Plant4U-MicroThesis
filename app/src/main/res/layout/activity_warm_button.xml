@@ -5,10 +5,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".AnnualButton">
+    tools:context=".ActivityWarmButton">
 
     <TextView
-        android:id="@+id/textViewed"
+        android:id="@+id/textViewedW"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
@@ -31,7 +31,7 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <AutoCompleteTextView
-            android:id="@+id/txtCompleted"
+            android:id="@+id/txtCompletedW"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -41,7 +41,7 @@
     </com.google.android.material.textfield.TextInputLayout>
 
     <Button
-        android:id="@+id/buttonBackAnnual"
+        android:id="@+id/buttonBackW"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
@@ -53,7 +53,7 @@
         app:layout_constraintTop_toTopOf="parent"/>
 
     <TextView
-        android:id="@+id/textViewInfoA"
+        android:id="@+id/textViewInfoW"
         android:layout_width="284dp"
         android:layout_height="97dp"
         android:layout_marginTop="144dp"
@@ -65,7 +65,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/textViewInfoA3"
+        android:id="@+id/textViewInfoW3"
         android:layout_width="286dp"
         android:layout_height="79dp"
         android:layout_marginTop="380dp"
@@ -78,7 +78,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/textViewInfoA4"
+        android:id="@+id/textViewInfoW4"
         android:layout_width="284dp"
         android:layout_height="75dp"
         android:layout_marginTop="476dp"
@@ -91,7 +91,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/textViewInfoA5"
+        android:id="@+id/textViewInfoW5"
         android:layout_width="285dp"
         android:layout_height="77dp"
         android:layout_marginTop="564dp"
@@ -104,7 +104,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/textViewInfoA2"
+        android:id="@+id/textViewInfoW2"
         android:layout_width="284dp"
         android:layout_height="107dp"
         android:layout_marginTop="256dp"
