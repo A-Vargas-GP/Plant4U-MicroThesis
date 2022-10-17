@@ -1,4 +1,4 @@
-<h1 style="align: center"> NJ-Plant4U </h1>
+<h1 style="align: center"> PlantMe-NJ </h1>
 
 ## Premise
 For my thesis project, my initial plan was to develop a mobile application using my programming skills and design abilities. The main goal is to create the application using Android Studio, but if that is not entirely feasible, then Unity or Flutterflow would serve as a possible alternative. Once created, the app can only be used on Android devices, and to form the design features, I am planning on using Autodesk Maya and Adobe Photoshop/Illustrator for the visual aspect.
